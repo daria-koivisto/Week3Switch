@@ -1,0 +1,14 @@
+C:\Users\Daria\source\repos\Week3Switch\Week3RemaiderOperator\bin\Debug\net6.0\Week3RemaiderOperator.exe
+C:\Users\Daria\source\repos\Week3Switch\Week3RemaiderOperator\bin\Debug\net6.0\Week3RemaiderOperator.deps.json
+C:\Users\Daria\source\repos\Week3Switch\Week3RemaiderOperator\bin\Debug\net6.0\Week3RemaiderOperator.runtimeconfig.json
+C:\Users\Daria\source\repos\Week3Switch\Week3RemaiderOperator\bin\Debug\net6.0\Week3RemaiderOperator.dll
+C:\Users\Daria\source\repos\Week3Switch\Week3RemaiderOperator\bin\Debug\net6.0\Week3RemaiderOperator.pdb
+C:\Users\Daria\source\repos\Week3Switch\Week3RemaiderOperator\obj\Debug\net6.0\Week3RemaiderOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daria\source\repos\Week3Switch\Week3RemaiderOperator\obj\Debug\net6.0\Week3RemaiderOperator.AssemblyInfoInputs.cache
+C:\Users\Daria\source\repos\Week3Switch\Week3RemaiderOperator\obj\Debug\net6.0\Week3RemaiderOperator.AssemblyInfo.cs
+C:\Users\Daria\source\repos\Week3Switch\Week3RemaiderOperator\obj\Debug\net6.0\Week3RemaiderOperator.csproj.CoreCompileInputs.cache
+C:\Users\Daria\source\repos\Week3Switch\Week3RemaiderOperator\obj\Debug\net6.0\Week3RemaiderOperator.dll
+C:\Users\Daria\source\repos\Week3Switch\Week3RemaiderOperator\obj\Debug\net6.0\refint\Week3RemaiderOperator.dll
+C:\Users\Daria\source\repos\Week3Switch\Week3RemaiderOperator\obj\Debug\net6.0\Week3RemaiderOperator.pdb
+C:\Users\Daria\source\repos\Week3Switch\Week3RemaiderOperator\obj\Debug\net6.0\Week3RemaiderOperator.genruntimeconfig.cache
+C:\Users\Daria\source\repos\Week3Switch\Week3RemaiderOperator\obj\Debug\net6.0\ref\Week3RemaiderOperator.dll
